@@ -23,5 +23,6 @@ PR's that would improve this repo are welcome too!
 ### Future
 
 This repo will be kept up-to-date untill EF Core 3 is released. 
+
 If there are too many breaking changes in EF Core 3+ this repo will become deprecated. 
 
