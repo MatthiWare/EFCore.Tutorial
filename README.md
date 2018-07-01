@@ -5,7 +5,7 @@ Repo that contains the source code for the YouTube Tutorial Series of EF Core.
 
 1. Basics (Migrate, Select, Insert, Update, Delete, Seeding, LIKE)
 2. Relations (One-to-One, One-to-Many, Many-to-Many)
-3. Lazy loading / eager loading (N+1 problem)
+3. Lazy loading (N+1 problem)
 4. Calculated columns
 5. Inheritance (TPH)
 6. Auditing, soft delete
